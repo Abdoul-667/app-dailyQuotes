@@ -1,22 +1,22 @@
 ## DailyQuotes
 
-# Description :
+# _Description_ 
 DailyQuotes est une application Android conçue pour fournir une citation motivante chaque jour. L’application affiche automatiquement une nouvelle citation inspirante au quotidien, permettant aux utilisateurs de commencer leur journée avec une pensée positive.
 
-# Fonctionnalités :
+# Fonctionnalités 
 
-Affichage quotidien d’une nouvelle citation.
+- Affichage quotidien d’une nouvelle citation.
 
-Interface simple et épurée.
+- Interface simple et épurée.
 
-Idéal pour trouver un peu d’inspiration quotidienne.
+- Idéal pour trouver un peu d’inspiration quotidienne.
 
-# Technologies :
+# Technologies 
 
-Android
+- Android
 
-Kotlin
+- Kotlin
 
-# Disponibilité :
+# Disponibilité 
 
 L’application sera bientôt disponible sur le Google Play Store.
